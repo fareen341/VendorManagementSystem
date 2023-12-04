@@ -1,0 +1,9 @@
+asgiref==3.7.2
+Django==3.2.12
+django-jsonfield==1.4.1
+djangorestframework==3.14.0
+jsonfield==3.1.0
+pytz==2023.3.post1
+six==1.16.0
+sqlparse==0.4.4
+typing_extensions==4.8.0
