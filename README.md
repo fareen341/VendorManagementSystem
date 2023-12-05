@@ -1,4 +1,3 @@
-# VendorManagementSystem
 
 # Using Git
 Git clone the repository: https://github.com/fareen341/VendorManagementSystem.git<br>
