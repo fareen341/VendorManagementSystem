@@ -17,7 +17,7 @@ docker run -d -p 8000:8000 fareen341/vendor-management
 application will start running at: "http://0.0.0.0:8000/"
 </pre>
 
-<b>UI to login credentials:</b><br>
+<b>UI login credentials:</b><br>
 username = admin<br>
 pswd = admin<br>
 
